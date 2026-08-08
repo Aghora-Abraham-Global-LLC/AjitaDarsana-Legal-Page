@@ -1,6 +1,6 @@
 ## ⚖️ Legal & OAuth Compliance
 
-This repository hosts the web platform for **Hora** (operated by Aghora Abraham Global LLC).
+This repository hosts the web platform for **AjitaDarsana** (operated by Aghora Abraham Global LLC).
 
 ### Public Legal Links
 * **Privacy Policy:** [https://nirajneupaneshrestha.com.np/privacy](privacy.html)
